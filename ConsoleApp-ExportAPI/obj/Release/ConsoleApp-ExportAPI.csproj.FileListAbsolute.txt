@@ -16,3 +16,4 @@ C:\Sumit\Work\Chandra Ford\ExportReleaseAPI\ConsoleApp-ExportAPI\obj\Release\Con
 C:\Sumit\Work\Chandra Ford\ExportReleaseAPI\ConsoleApp-ExportAPI\obj\Release\ConsoleApp-ExportAPI.csproj.CopyComplete
 C:\Sumit\Work\Chandra Ford\ExportReleaseAPI\ConsoleApp-ExportAPI\obj\Release\ConsoleApp-ExportAPI.exe
 C:\Sumit\Work\Chandra Ford\ExportReleaseAPI\ConsoleApp-ExportAPI\obj\Release\ConsoleApp-ExportAPI.pdb
+C:\Sumit\Work\Chandra Ford\ExportReleaseAPI\ConsoleApp-ExportAPI\obj\Release\ConsoleApp-ExportAPI.csprojAssemblyReference.cache
